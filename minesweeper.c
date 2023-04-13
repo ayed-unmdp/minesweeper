@@ -6,7 +6,7 @@
 
 #include "matrix.h"
 #include "cells.c"
-
+// ESTO ES PARA PROBAR
 #define GAME_STATE_PLAYING 1
 #define GAME_STATE_WIN 2
 #define GAME_STATE_LOST 3
